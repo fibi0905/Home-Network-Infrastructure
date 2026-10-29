@@ -1,3 +1,4 @@
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 # Home Network Infrastructure
 ![schema](./src/MyLan%20schema.png)
 
@@ -79,9 +80,9 @@ Applicazione per la gestione della contabilità personale, strutturata su un dat
 **Mockup:**
 ![Mockup](./src/Mockup%20UI%20EasyBank%20in%20blu%20elegante.png)
 
-
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
-
+<br></br>
+---
+# 📄 Licenza
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
